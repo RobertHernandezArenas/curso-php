@@ -1,6 +1,6 @@
 # Aprendiendo PHP
 ## 00. Cursos estudiados:
-- Aprende PHP y MySQL desde cero. (Curso Gratuito).
+- Aprende PHP y MySQL desde cero.
 Profesor: Juan Fernando Urrego.
 https://itoo.dev/p/curso-php-mysql-gratis
 
