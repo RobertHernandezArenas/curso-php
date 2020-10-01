@@ -35,10 +35,10 @@ $b -> marca = "Hyundai";
 $b -> modelo = "Accent Vision";
 $b -> mostrar(); 
 
-$b = new Automovil();
-$b -> marca = "Mazda";
-$b -> modelo = "2";
-$b -> mostrar(); 
+$c = new Automovil();
+$c -> marca = "BMW";
+$c -> modelo = "320";
+$c -> mostrar();
 
 #Principios de la POO que se cumplen en este ejemplo:
 
