@@ -4,6 +4,8 @@
 - Aprende PHP y MySQL desde cero.
 Profesor: Juan Fernando Urrego.
 https://itoo.dev/p/curso-php-mysql-gratis
+- PHP 7 Developer Poo + MYSQL [Kodoti].
+Profesor: Eduardo Patiño.
 
 ## 01. Fundamentos PHP
 - Sintaxis.
