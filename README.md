@@ -1,4 +1,5 @@
 # Aprendiendo PHP
+![Sequelize](https://github.com/dimelorobert/curso-php/blob/master/public/images/php7.jpg)
 ## 00. Cursos estudiados:
 - Aprende PHP y MySQL desde cero.
 Profesor: Juan Fernando Urrego.
