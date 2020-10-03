@@ -1,4 +1,4 @@
-<?php
+<?php declare(strict_types = 1);
 
 # Funciones sin parametro 
 function saludo() { 
@@ -6,8 +6,9 @@ function saludo() {
 }
 saludo();
 
-# Funciones con parametros || con el punto (.) se concatena variable + string
-function despedida($adios) {
+/* Funciones con parametros || con el punto (.) se concatena variable + string, sele añade type string 
+al parametro para recibir explicitamente un parametro tipo string*/
+function despedida(string $adios) {
     echo $adios."<br>";
 } 
 despedida("<p>Chao, Pescao</p>");
